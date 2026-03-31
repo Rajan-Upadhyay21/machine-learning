@@ -9,9 +9,6 @@ The goal of this repository is to build a strong understanding of machine learni
 
 Topics included in this repository:
 - machine learning basics
-- NumPy
-- Pandas
-- Matplotlib
 - Seaborn
 - scikit-learn
 - preprocessing
